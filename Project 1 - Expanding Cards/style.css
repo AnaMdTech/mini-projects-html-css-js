@@ -42,6 +42,7 @@ body {
   left: 20px;
   margin: 0;
   opacity: 0;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 .panel.active {
