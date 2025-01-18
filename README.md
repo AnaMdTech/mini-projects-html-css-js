@@ -18,8 +18,11 @@ This repository contains a collection of **50 mini-projects** built with **HTML*
 
 1. Clone the repository:
 
-bash
-git clone https://github.com/your-username/mini-projects-html-css-js.git 2. Navigate to the desired project folder. 3. Open the index.html file in a browser to view the project.
+```bash
+git clone https://github.com/your-username/mini-projects-html-css-js.git
+```
+2. Navigate to the desired project folder.
+3. Open the index.html file in a browser to view the project.
 
 ## Projects List
 
